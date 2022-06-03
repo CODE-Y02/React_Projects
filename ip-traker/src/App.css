@@ -1,0 +1,15 @@
+.app {
+  /* height: auto; */
+  /* background-color: lightcyan; */
+  background-color: rgb(70, 70, 70);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ip-app {
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

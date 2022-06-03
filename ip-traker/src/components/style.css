@@ -1,0 +1,61 @@
+/* ip-card */
+.ip-card {
+  /* width: 80vw; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #ff00ff; */
+
+  height: 20vh;
+  /* font-size: 1.5rem; */
+  margin: 0.5rem;
+}
+
+.ip-address {
+  width: 50rem;
+  height: 70%;
+  min-width: 360px;
+  font-size: 3rem;
+  background-color: rgb(75, 75, 75);
+  color: chartreuse;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding: 1.5rem; */
+  margin: 5px;
+  border: 0.2rem solid white;
+}
+
+/* ipInfo */
+
+.ipInfo {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  margin: 00.5rem;
+  margin-top: 2rem;
+  background-color: white;
+  border: 0.1rem solid grey;
+  padding: 00.5rem;
+  /* width: 80vw; */
+  font-size: 1.5rem;
+}
+.ip-info-row {
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  /* width: 80%; */
+  margin: 0.2rem;
+  border-bottom: 2px solid grey;
+}
+
+.ip-info-row-data2 {
+  margin-left: 3rem;
+}
+.ip-proxy-true {
+  color: blue;
+}
+.ip-proxy-false {
+  color: red;
+}
