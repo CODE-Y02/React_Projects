@@ -1,3 +1,16 @@
+# About IP TRAKER
+
+--> this app will help you save your privacy .
+--> It gives your Ip info snd even tell you, if you are using proxy or Not.
+
+** Bugs **
+==> current version has issue with api . As api gives response in Http and i tried to host it as https ..
+
+** Request **
+==> If you are learning or Further Developing it , try changing Api . The current Api i used , i used is because its free but its alternatives are available with some request limits .. Check My Api folder in Repo React_Projrcts
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
